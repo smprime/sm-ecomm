@@ -1,0 +1,4 @@
+$ cd /Users/jlmconsulting/Library/Android/sdk/emulator
+$ ./emulator -avd "Nexus_5X_API_28"
+
+$ tns run android --emulator
